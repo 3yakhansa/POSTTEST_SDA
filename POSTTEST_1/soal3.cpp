@@ -11,7 +11,7 @@ struct Mahasiswa {
 int main() {
     Mahasiswa mhs[4];
 
-    cout << "Iput data 4 mahasiswa:" << endl;
+    cout << "Input data 4 mahasiswa:" << endl;
     for (int i = 0; i < 4; i++) {
         cout << "\nMahasiswa ke-" << i+1 << endl;
         cout << "Nama : ";
